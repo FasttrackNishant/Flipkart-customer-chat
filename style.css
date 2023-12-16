@@ -1,0 +1,38 @@
+.options-container {
+    /* background-color: #988e8e; */
+    color: #0025ff;
+    font-weight: 400;
+    /* padding: 2px 4px; */
+    border-radius: 12px;
+    margin: auto;
+    width: fit-content;
+    text-align: center;
+    padding: 9px 30px;
+}
+.option {
+    font-size: 0.8rem;
+}
+.bot {
+    color: black;
+    background: rgb(255, 255, 255);
+    border-radius: 12px;
+    margin-top: 6px;
+    width: fit-content;
+    margin-left: 9px;
+    padding: 11px;
+    text-align: center;
+    padding: 9px 30px;
+}
+.user {
+  background-color: #2873f0;
+  color: white;
+  border-radius: 9999px;
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+  padding-top: 0.25rem;
+  padding-bottom: 0.25rem;
+  width: fit-content;
+  margin-top: 8px;
+  position: relative;
+  left: 68%;
+}
